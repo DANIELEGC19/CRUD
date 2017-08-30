@@ -1,0 +1,11 @@
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.exe.config
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.exe
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\CRUD.pdb
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\MySql.Data.dll
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\bin\Debug\MySql.Data.xml
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.csprojResolveAssemblyReference.cache
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.frmproducto.resources
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.Cache
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.exe
+c:\users\201311240572\documents\visual studio 2017\Projects\CRUD\CRUD\obj\Debug\CRUD.pdb
